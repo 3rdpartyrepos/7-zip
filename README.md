@@ -1,0 +1,1 @@
+This repository contains [7-zip](https://7-zip.org) source code, starting from version 16.02
